@@ -1,0 +1,3 @@
+/cygdrive/c/Users/tuh04091/CLionProjects/sherlocktoSouth/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/tuh04091/CLionProjects/sherlocktoSouth/cmake-build-debug/CMakeFiles/sherlocktoSouth.dir
+/cygdrive/c/Users/tuh04091/CLionProjects/sherlocktoSouth/cmake-build-debug/CMakeFiles/edit_cache.dir
